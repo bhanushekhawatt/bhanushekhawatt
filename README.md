@@ -87,8 +87,5 @@ Currently learning **Java, Object-Oriented Programming, and Data Structures**, w
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bhanushekhawatt&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=false&hide_border=true&custom_title=Bhanu%20Pratap%20Singh%27s%20Contribution%20Graph"
-    width="95%"
-  />
+  <img src="activity-graph.svg" width="95%">
 </p>
