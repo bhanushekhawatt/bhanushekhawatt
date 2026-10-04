@@ -2,10 +2,10 @@
   <img src="https://i.pinimg.com/1200x/f2/9f/7a/f29f7af6b35e675f2902acd33c7c6e17.jpg" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Bhanu</h1>
+<h1 align="center">Hi 👋, I'm BhanuShekhawatt</h1>
 
 <p align="center">
-  BCA Student • Java Learner • Future Software Developer
+     Student •  Learner • Procastinater
 </p>
 
 # Hi 👋, I'm Bhanu Pratap Singh Shekhawat
