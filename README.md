@@ -16,16 +16,31 @@
 
 ---
 
-## ⚔️ About Me
+<h2>🚀 About Me</h2>
 
-I'm a BCA student currently focused on building strong programming fundamentals.
+<table>
+<tr>
+<td width="65%">
 
-- ☕ Learning **Java**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 💻 Exploring **Web Development**
-- 🛠️ Building small projects and solving problems
-- 📚 Currently strengthening my programming fundamentals
-- 🎯 Goal: Become a competent software developer
+I'm a BCA student focused on building strong programming fundamentals.
+
+Currently learning **Java, Object-Oriented Programming, and Data Structures**, while improving my problem-solving skills through consistent practice.
+
+- ☕ Learning Java
+- 🧠 Practicing Data Structures & Algorithms
+- 💻 Exploring Web Development
+- 🔧 Building small projects
+- 🎯 Working towards becoming a skilled software developer
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://i.pinimg.com/736x/7b/89/3e/7b893e0abad498e433cb0f33ccdf9df6.jpg" width="250">
+
+</td>
+</tr>
+</table>
 
 ---
 
