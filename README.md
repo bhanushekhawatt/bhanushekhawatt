@@ -18,9 +18,9 @@
 
 <h2>🚀 About Me</h2>
 
-<table>
+<table border="0">
 <tr>
-<td width="65%">
+<td width="70%" valign="top">
 
 I'm a BCA student focused on building strong programming fundamentals.
 
@@ -34,14 +34,13 @@ Currently learning **Java, Object-Oriented Programming, and Data Structures**, w
 
 </td>
 
-<td width="35%" align="center">
+<td width="30%" align="center" valign="middle">
 
 <img src="https://i.pinimg.com/736x/7b/89/3e/7b893e0abad498e433cb0f33ccdf9df6.jpg" width="250">
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 💻 Tech Stack
