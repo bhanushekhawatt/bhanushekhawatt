@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Bhanu Pratap Singh Shekhawat
 
-<!--
-**bhanushekhawatt/bhanushekhawatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student • Java Learner • Future Software Developer
 
-Here are some ideas to get you started:
+> Learning by building. Improving by consistency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚔️ About Me
+
+I'm a BCA student currently focused on building strong programming fundamentals.
+
+- ☕ Learning **Java**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 💻 Exploring **Web Development**
+- 🛠️ Building small projects and solving problems
+- 📚 Currently strengthening my programming fundamentals
+- 🎯 Goal: Become a competent software developer
+
+---
+
+## 💻 Tech Stack
+
+### Currently Learning
+
+`Java` `JavaScript` `HTML` `CSS`
+
+### Tools
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## 📚 Current Focus
+
+```text
+Java
+ ├── Fundamentals
+ ├── Conditional Logic
+ ├── Loops
+ ├── Arrays
+ ├── Methods
+ └── OOP
+
+Next
+ └── Data Structures & Algorithms
