@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bhanu Pratap Singh Shekhawat
 
-### BCA Student • Java Learner • Future Software Developer
+
 
 > Learning by building. Improving by consistency.
 
