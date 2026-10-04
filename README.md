@@ -55,6 +55,12 @@ Currently learning **Java, Object-Oriented Programming, and Data Structures**, w
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+---
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode" />
+</p>
 
 ---
 ## 💻 Tech Stack
