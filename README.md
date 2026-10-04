@@ -74,17 +74,8 @@ Currently learning **Java, Object-Oriented Programming, and Data Structures**, w
 `Git` `GitHub` `VS Code`
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 📚 Current Focus
-
-```text
-Java
- ├── Fundamentals
- ├── Conditional Logic
- ├── Loops
- ├── Arrays
- ├── Methods
- └── OOP
-
-Next
- └── Data Structures & Algorithms
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanushekhawatt&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
