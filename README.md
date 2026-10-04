@@ -84,8 +84,3 @@ Currently learning **Java, Object-Oriented Programming, and Data Structures**, w
 
 ##  ANALYTIC GRAPH
 
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="activity-graph.svg" width="95%">
-</p>
